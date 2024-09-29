@@ -1,0 +1,8 @@
+{
+    "database": {
+        "host": "localhost",
+        "database": "biblio",
+        "user": "postgres",
+        "password": "HOLUX"
+    }
+}
